@@ -1,4 +1,4 @@
-# afdian - 爱发电 SDK for Node.js & Browser
+# afdian - 爱发电 SDK for Node.js & Browser  
 
 [![GitHub followers](https://img.shields.io/github/followers/willin?logo=github&style=flat-square&label=)](https://github.com/willin) [![npm](https://img.shields.io/npm/v/afdian?style=flat-square&logo=npm)](https://npmjs.org/package/afdian) [![npm](https://img.shields.io/npm/dm/afdian?style=flat-square&label=down)](https://npmjs.org/package/afdian) [![npm](https://img.shields.io/npm/dt/afdian?style=flat-square&label=down)](https://npmjs.org/package/v0) [![Travis (.com)](https://img.shields.io/travis/com/willin/afdian-sdk?style=flat-square&logo=travis&label=ci)](https://app.travis-ci.com/willin/afdian-sdk) [![Code Climate maintainability](https://img.shields.io/codeclimate/maintainability/willin/afdian-sdk?style=flat-square&logo=codeclimate&label=rank)](https://codeclimate.com/github/willin/afdian-sdk/maintainability) [![Code Climate coverage](https://img.shields.io/codeclimate/coverage/willin/afdian-sdk?style=flat-square&label=cov)](https://codeclimate.com/github/willin/afdian-sdk/test_coverage)
 
